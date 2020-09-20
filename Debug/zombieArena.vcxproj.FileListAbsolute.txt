@@ -1,0 +1,2 @@
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Debug\zombieArena.exe
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Debug\zombieArena.pdb

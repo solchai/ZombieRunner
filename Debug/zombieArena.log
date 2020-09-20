@@ -1,0 +1,39 @@
+﻿  Player.cpp
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(9,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(10,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(24,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(25,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(44,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(45,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(159,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(164,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(169,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(174,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(177,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(187,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\solcs\Desktop\CPP Game\zombieArena\Player.cpp(193,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  zombieArena.vcxproj -> C:\Users\solcs\Desktop\CPP Game\zombieArena\Debug\zombieArena.exe
